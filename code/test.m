@@ -1,5 +1,3 @@
-%%
-
 V_max_u = 3.5;              % pmol/min per pmol cyp
 k_m_u = 16;                 % umol/L
 dose_schedule_u= [0,1.4;
